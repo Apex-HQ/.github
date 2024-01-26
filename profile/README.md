@@ -1,3 +1,3 @@
 #### Apex HQ
 
-Developing usefull softwares
+Developing and building software that are both useful and beautiful
